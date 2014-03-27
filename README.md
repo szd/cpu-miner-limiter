@@ -23,5 +23,11 @@ How-To Install
 	1) Script is configure to allow minerd to use 30% of CPU, if you want an other value, edit install.cmd :
 		- Modify last number of line number 12 (CpuRateLimit /t REG_DWORD /d 30) 30=30%
 	2) Launch install.cmd
-	3) Edit C:\Zmine\launch.bat : edit this file with your values of [MyPoolURL], [MyPoolPort],[MyPoolAccount],[MyWorkerName] and [MyWorkerPasswd]
+	3) Edit C:\Zmine\launch.bat : edit this file with your values of [MyPoolURL], [MyPoolPort],
+	[MyPoolAccount],[MyWorkerName] and [MyWorkerPasswd]
 	4) Reboot & profit!
+	
+
+SZD.
+	
+	
