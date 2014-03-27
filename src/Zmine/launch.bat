@@ -1,0 +1,1 @@
+"C:\Zmine\minerd.exe" --url=stratum+tcp://[MyPoolURL]:[MyPoolPort] --userpass=[MyPoolAccount].[MyWorkerName]:[MyWorkerPasswd]
